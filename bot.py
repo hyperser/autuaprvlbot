@@ -58,7 +58,7 @@ async def op(_, m :Message):
                         InlineKeyboardButton("🍿 Movie Channel", url="https://t.me/C1nemaCorner"),
                         InlineKeyboardButton("💬 Bot Support", url="https://t.me/HyperBotz")
                     ],[
-                        InlineKeyboardButton("➕ Add me to your Chat ➕", url="https://t.me/RequestAutoApprovalbot?startgroup")
+                        InlineKeyboardButton("➕ Add me to your Chat ➕", url="https://t.me/requestautoapprovalbot?startgroup")
                     ]
                 ]
             )
@@ -69,7 +69,7 @@ async def op(_, m :Message):
             keyboar = InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("💁‍♂️ Start me private 💁‍♂️", url="https://t.me/RequestAutoApprovalbot?start=start")
+                        InlineKeyboardButton("💁‍♂️ Start me private 💁‍♂️", url="https://t.me/requestautoapprovalbot?start=start")
                     ]
                 ]
             )
